@@ -69,6 +69,12 @@ dim_hotels ─── fact_bookings ─── dim_rooms
 4. **Explore (Tableau):** calculated fields for occupancy, cancellation and realization; trend, city, room-class, platform and rating views.
 5. **Present:** insights and recommendations deck.
 
+## Dashboards
+
+| Excel | Tableau |
+|---|---|
+| ![Excel dashboard](images/excel_dashboard.png) | ![Tableau dashboard](images/tableau_dashboard.png) |
+
 ## Tools
 MySQL · Excel (Power Query, PivotTables, PivotCharts) · Power BI (DAX, data modelling) · Tableau (calculated fields, dashboard actions)
 
